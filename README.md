@@ -14,3 +14,5 @@ Reviews from Oct 1999 - Oct 2012
 256,059 users
 74,258 products
 260 users with > 50 reviews
+
+for data link : https://www.kaggle.com/snap/amazon-fine-food-reviews?select=Reviews.csv
